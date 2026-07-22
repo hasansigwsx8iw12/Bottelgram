@@ -1,5 +1,2 @@
 python-telegram-bot
-python-telegram-bot
 openpyxl
-requests
-python-dotenv
