@@ -19,7 +19,7 @@ import os
 # إعدادات البوت
 # =========================================================
 
-TOKEN = "8403208232:AAGyopVwOIsxUJ1oisZpupHCM5HZufXJj9M"
+TOKEN = "8403208232:AAGcoPfNgGrlYysYfzFihSy58yOrufdDByQ"
 
 
 # =========================================================
